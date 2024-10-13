@@ -40,6 +40,17 @@ Task 7: Incorporate Error Handling
 
 Implement robust error handling to ensure that your application gracefully handles unexpected situations.
 
+
+Goal:
+
+Created an Emotion Detection application using functions from embeddable AI libraries.
+Relevant information was extracted from the output received from the function.
+It has been tested and packaged into the application created using the Emotion Detection function.
+Completed web deployment of the application using Flask.
+I have incorporated error handling in the application to account for invalid input.
+Wrote code that complies perfectly with PEP 8 guidelines, achieving a 10/10 score in static code analysis.
+
+
 Task 8: Run Static Code Analysis
 
 Perform static code analysis to review your code for potential issues, code quality, and adherence to best practices.
